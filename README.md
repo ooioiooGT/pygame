@@ -5,6 +5,9 @@
 1. Pygame 
 
 
-#10/25/2022
+10/25/2022
 Import Pygame
 set up screen and learned init modules ( It initialize all import pygame)
+
+10/25/2022 
+pygame.time.get_ticks get the time in milliseconds
